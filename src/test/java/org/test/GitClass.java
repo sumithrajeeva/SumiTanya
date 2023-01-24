@@ -10,5 +10,15 @@ public class GitClass {
 	private void Salem() {
 		System.out.println("Salem");
 	}
+	private void trichy() {
+		System.out.println("trichy");
+	}
+	private void lalgudi() {
+		System.out.println("lalgudi");
+	}
+	private void kumba() {
+		System.out.println("kumba");
+	}
+	
 
 }
