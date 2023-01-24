@@ -19,6 +19,13 @@ public class GitClass {
 	private void kumba() {
 		System.out.println("kumba");
 	}
-	
+	private void UK() {
+System.out.println("London");
+	}
+	private void America() {
+System.out.println("USA");
+	}
 
-}
+
+	}
+
