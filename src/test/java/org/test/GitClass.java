@@ -10,5 +10,11 @@ public class GitClass {
 	private void Salem() {
 		System.out.println("Salem");
 	}
+	private void UK() {
+System.out.println("London");
+	}
+	private void America() {
+System.out.println("USA");
+	}
 
 }
